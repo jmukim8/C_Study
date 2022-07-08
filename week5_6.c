@@ -7,5 +7,6 @@ int main(int argc, char *argv[]) {
 	int b = 0;
 	scanf("%d %d", &a,&b);
 	printf("%d\n", a == b);
-	//codeup 1057
+	
 }
+//codeup 1057
