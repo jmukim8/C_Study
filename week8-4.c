@@ -13,4 +13,4 @@ int main(void)
   printf("%d",day);
   return 0;
 }
-58페이지,6
+58페이지,6문제
