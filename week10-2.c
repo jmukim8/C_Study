@@ -21,3 +21,4 @@ int main(void)
   }
   return 0;
 }
+28페이지,1
