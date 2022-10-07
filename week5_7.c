@@ -10,4 +10,4 @@ int main(int argc, char *argv[]) {
 	return 0;
 	
 }
-11페이지,1-1문제
+11페이지,문제1-1
