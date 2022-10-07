@@ -20,4 +20,4 @@ int main(void)
   a /= 2;
   printf("a = %d\n", a);
 }
-23
+23페이지
