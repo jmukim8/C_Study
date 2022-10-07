@@ -10,4 +10,4 @@ int main(void)
   printf("n = %d\n", n);
   
 }
-페이지25,문제1
+25페이지,문제1
