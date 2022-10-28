@@ -22,4 +22,4 @@ int main(void)
     printf("F");
   }
 }
-36페이지
+//36페이지
