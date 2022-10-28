@@ -13,5 +13,5 @@ int main(void) {
   printf("%d\n", total);
   printf("%.2f", average);
   return 0;
-  //codeup 1046
 }
+//codeup 1046
