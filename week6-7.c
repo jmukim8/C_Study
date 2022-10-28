@@ -17,4 +17,4 @@ int main(void)
   printf("a = %d b = %d\n", a, b);
   
 }
-26페이지,문제1
+//26페이지,문제1
