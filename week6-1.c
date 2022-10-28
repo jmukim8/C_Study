@@ -13,4 +13,4 @@ int main(void)
   a *= a;
   printf("a = %d\n", a);
 }
-22페이지
+//22페이지
