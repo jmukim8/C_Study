@@ -16,4 +16,4 @@ int main(void)
   b = --a;
   printf("a = %d b = %d\n", a, b);
 }
-24페이지
+//24페이지
