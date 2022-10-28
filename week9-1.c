@@ -15,4 +15,4 @@ int main(void)
   printf("%d",day);
   return 0;
 }
-16페이지,문제1
+//16페이지,문제1
