@@ -15,4 +15,4 @@ int main(void)
   }
   return 0;
 }
-38페이지
+//38페이지
