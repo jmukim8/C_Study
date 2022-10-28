@@ -9,4 +9,4 @@ int main(int argc, char *argv[]) {
 	printf("%d\n", c - a == 60);
 	return 0;	
 }
-12페이지,문제1-3
+//12페이지,문제1-3
